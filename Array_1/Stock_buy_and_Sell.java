@@ -15,4 +15,5 @@ class Stock_buy_and_Sell {
         return maxprof;
     }
 }
-// T.C - O(n) & S.C - O(n)
+// Time Complexity - O(n)
+// Space Complexity - O(n)

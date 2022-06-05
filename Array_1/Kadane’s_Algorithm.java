@@ -14,4 +14,5 @@ class Solution {
         return maxsum;
     }
 }
-// T.C - O(n) & S.C - O(1)
+// Time Complexity - O(n)
+// Space Complexity - O(1)

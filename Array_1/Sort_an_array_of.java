@@ -13,4 +13,5 @@ class Sort_an_array_of {
         }
     }
 }
-// T.C - O(n^2) & S.C - O(1)
+// Time Complexity - O(n^2)
+// Space Complexity - O(1)
