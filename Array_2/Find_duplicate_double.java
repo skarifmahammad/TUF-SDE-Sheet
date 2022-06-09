@@ -1,10 +1,6 @@
+package Array_2;
+
 public class Find_duplicate_double {
-    public static void main(String[] args) {
-
-    }
-}
-
-public class myclass {
     int[] findTwoElement(int arr[], int n) {
         // code here
         // int min=1;
